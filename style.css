@@ -24,6 +24,10 @@ form {
 
 @media (max-width: 462px) {
 
+    body {
+        height: 100svh;
+    }
+
     #timer {
         font-size: 100px;
     }
